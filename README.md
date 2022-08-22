@@ -2,8 +2,7 @@
 
 
 ### Screenshot
-
-![](./screenshot.jpg)
+<img width="355" alt="Captura de pantalla 2022-08-22 a las 3 38 04 p  m" src="https://user-images.githubusercontent.com/108431169/185995519-52f73962-58e7-4c76-82b0-63cef5ba8102.png">
 
 
 ### Links
@@ -23,7 +22,7 @@
 ## Author
 
 - Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/AndreaDev14)
+- Frontend Mentor - [@AndreaDev14](https://www.frontendmentor.io/profile/AndreaDev14)
 
 
 
