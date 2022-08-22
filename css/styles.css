@@ -35,6 +35,7 @@ h1 {
     font-weight: 700;
     font-size: 2.5rem;
      color: var(--Dark-blue);
+     max-width: 30rem;
      
 }
 
@@ -50,6 +51,7 @@ p {
     font-weight: 400;
     color: var(--Grayish-blue);
      margin: 0;
+     max-width: 25rem;
     
 }
 
